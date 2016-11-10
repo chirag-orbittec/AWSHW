@@ -1,0 +1,4 @@
+com\cmpe\server\Employee.class
+com\cmpe\server\EmployeeResource.class
+com\cmpe\server\Project.class
+com\cmpe\server\ProjectResource.class
